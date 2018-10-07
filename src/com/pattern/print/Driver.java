@@ -13,7 +13,7 @@ public class Driver {
 		int midcounter=1;
 		String str="";		
 		
-		/For Loop
+		//For Loop
 		for(int i=1;i<=n/2;i++) {//loop to print number of lines
 			
 			for(int j=1;j<=midchar1-counter;j++) {
